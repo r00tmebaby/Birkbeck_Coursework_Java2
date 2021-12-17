@@ -2,8 +2,6 @@ package core;
 
 /**
  * Interface for anything that has a name.
- *
- * @author Carsten Fuhs
  */
 public interface HasName {
     /**
