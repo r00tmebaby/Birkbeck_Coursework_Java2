@@ -6,7 +6,6 @@ import treasures.Treasure;
  * a Treasure object and return a replacement (or the same) Treasure object.
  * It can also be queried whether it still wants more visits. 
  *
- * @author Carsten Fuhs
  */
 public interface Visitor {
 
