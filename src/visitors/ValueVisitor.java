@@ -6,8 +6,6 @@ import java.util.Objects;
 /**
  * Visitor keeping a running total of the values of all Treasure objects
  * passed to the visit method.
- *
- * @author Carsten Fuhs
  */
 public class ValueVisitor implements Visitor {
 
