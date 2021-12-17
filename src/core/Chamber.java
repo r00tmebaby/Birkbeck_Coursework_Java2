@@ -16,9 +16,6 @@ import visitors.Visitor;
  *
  * Formally, a Chamber is a node in a directed graph with unlimited out-degree.
  * The graph may contain loops and, more generally, cyclic paths.
- *
- * @author Carsten Fuhs
- * @author Zdravko Georgiev
  */
 public class Chamber {
 
