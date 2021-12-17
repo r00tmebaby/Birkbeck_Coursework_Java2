@@ -13,8 +13,6 @@ import visitors.Visitor;
  * 
  * Formally, a TreasureMaze is a directed graph with unlimited out-degree.
  * It may contain loops and, more generally, cyclic paths.
- *
- * @author Carsten Fuhs
  */
 public class TreasureMaze {
 
