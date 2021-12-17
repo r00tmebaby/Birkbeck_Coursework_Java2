@@ -5,8 +5,6 @@ import treasures.Treasure;
  * Counts how many times the visit method has been called. Useful for
  * determining the number of entries in a container data structure.
  *
- * @author Carsten Fuhs
- * @author Zdravko Georgiev
  */
 public class SizeVisitor implements Visitor {
 
