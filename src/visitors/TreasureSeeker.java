@@ -14,8 +14,6 @@ import java.util.Objects;
  * as a Visitor to ensure independence from the concrete data structure(s) in
  * which the Treasures can be found.
  *
- * @author Carsten Fuhs
- * @author Zdravko Georgiev
  */
 public class TreasureSeeker implements Visitor, HasName {
 
